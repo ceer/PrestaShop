@@ -90,7 +90,7 @@ class ShippingType extends TranslatorAwareType
                 'expanded' => true,
                 'multiple' => false,
                 'required' => false,
-                'label' => $this->trans('Delivery Time', 'Admin.Catalog.Feature'),
+                'label' => $this->trans('Delivery time', 'Admin.Catalog.Feature'),
                 'label_tag_name' => 'h3',
                 'label_help_box' => $this->trans('Display delivery time for a product is advised for merchants selling in Europe to comply with the local laws.', 'Admin.Catalog.Help'),
             ])

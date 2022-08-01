@@ -415,13 +415,13 @@ File: src/PrestaShopBundle/Resources/views/Admin/Product/ProductPage/Blocks/foot
   <file original="classes/helper/Helper.php" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="b56c3bda503a8dc4be356edb0cc31793" approved="yes">
-        <source>Collapse All</source>
+        <source>Collapse all</source>
         <target xml:lang="fr" state="translated">Réduire tout</target>
         <note>Context:
 File: classes/helper/Helper.php:172</note>
       </trans-unit>
       <trans-unit id="5ffd7a335dd836b3373f5ec570a58bdc" approved="yes">
-        <source>Expand All</source>
+        <source>Expand all</source>
         <target xml:lang="fr" state="translated">Ouvrir tout</target>
         <note>Context:
 File: classes/helper/Helper.php:173</note>

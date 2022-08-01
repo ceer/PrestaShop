@@ -27,8 +27,8 @@
   <file original="admin-dev/themes/default/template/controllers/translations/helpers/view/translation_errors.tpl" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="3881d16572ee3be6a8ab13f6862b3911">
-        <source>You MUST use this syntax in your translations. Here are a few examples:</source>
-        <target>You MUST use this syntax in your translations. Here are a few examples:</target>
+        <source>You must use this syntax in your translations. Here are a few examples:</source>
+        <target>You must use this syntax in your translations. Here are a few examples:</target>
         <note>Line: 69</note>
       </trans-unit>
       <trans-unit id="7cefb4829c6de24b63f7a05716b43bec">
@@ -76,8 +76,8 @@
         <note>Line: 75</note>
       </trans-unit>
       <trans-unit id="f324bbd9de83d61ccb5f7d5593aec5b3">
-        <source>You MUST use this syntax in your translations. Here are several examples:</source>
-        <target>You MUST use this syntax in your translations. Here are several examples:</target>
+        <source>You must use this syntax in your translations. Here are several examples:</source>
+        <target>You must use this syntax in your translations. Here are several examples:</target>
         <note>Line: 70</note>
       </trans-unit>
     </body>

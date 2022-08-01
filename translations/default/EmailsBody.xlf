@@ -92,8 +92,8 @@
         <note>Line: 24</note>
       </trans-unit>
       <trans-unit id="31e15b28c2f071f74f47eb8bcd612d94">
-        <source>Customer e-mail address:</source>
-        <target>Customer e-mail address:</target>
+        <source>Customer email address:</source>
+        <target>Customer email address:</target>
         <note>Line: 22</note>
       </trans-unit>
     </body>
@@ -148,8 +148,8 @@
   <file original="mails/themes/classic/core/employee_password.html.twig" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="78e365acb087fd1f8d494dae0001de10">
-        <source>E-mail address:</source>
-        <target>E-mail address:</target>
+        <source>Email address:</source>
+        <target>Email address:</target>
         <note>Line: 32</note>
       </trans-unit>
       <trans-unit id="4785f7efb27f2905a05564903db18b23">

@@ -395,8 +395,8 @@
   <file original="themes/classic/templates/checkout/_partials/steps/addresses.tpl" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="baa63a898921164abe2d1d532ab27e79">
-        <source>Your Invoice Address</source>
-        <target>Your Invoice Address</target>
+        <source>Your invoice address</source>
+        <target>Your invoice address</target>
         <note>Line: 90</note>
       </trans-unit>
       <trans-unit id="dc024b376ebf01abd90cf4d5e4dca1c7">
@@ -410,8 +410,8 @@
         <note>Line: 41</note>
       </trans-unit>
       <trans-unit id="48974cc3df177e6b565c39aa155458cd">
-        <source>Shipping Address</source>
-        <target>Shipping Address</target>
+        <source>Shipping address</source>
+        <target>Shipping address</target>
         <note>Line: 45</note>
       </trans-unit>
       <trans-unit id="313d7cbfa2b3c25f09d69ad7e40974a7">
@@ -554,8 +554,8 @@
   <file original="themes/classic/templates/customer/_partials/account-transformation-form.tpl" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="cc6f3e2192d71f54d7b181d91f04d165">
-        <source>Save time on your next order, sign up now</source>
-        <target>Save time on your next order, sign up now</target>
+        <source>Create an account to save time on your next order</source>
+        <target>Create an account to save time on your next order</target>
         <note>Line: 26</note>
       </trans-unit>
     </body>

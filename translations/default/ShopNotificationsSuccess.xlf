@@ -3,8 +3,8 @@
   <file original="controllers/front/AddressController.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="2e3e7c5849ac5eefe1cc6c4c73f182af">
-        <source>Address successfully deleted!</source>
-        <target>Address successfully deleted!</target>
+        <source>Address successfully deleted.</source>
+        <target>Address successfully deleted.</target>
         <note>Line: 111</note>
       </trans-unit>
       <trans-unit id="e8699fcc0a32d2a30f1506e3ab4e3c5f">

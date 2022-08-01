@@ -256,8 +256,8 @@
         <note>Line: 618</note>
       </trans-unit>
       <trans-unit id="9a7c79186c1ff1cd48b31ed6caf6ff48">
-        <source>The item %product% in your cart is no longer available in this quantity. You cannot proceed with your order until the quantity is adjusted.</source>
-        <target>The item %product% in your cart is no longer available in this quantity. You cannot proceed with your order until the quantity is adjusted.</target>
+        <source>%product% is no longer available in this quantity. You cannot proceed with your order until the quantity is adjusted.</source>
+        <target>%product% is no longer available in this quantity. You cannot proceed with your order until the quantity is adjusted.</target>
         <note>Line: 633</note>
       </trans-unit>
     </body>
@@ -459,8 +459,8 @@
         <note>Line: 155</note>
       </trans-unit>
       <trans-unit id="da9aa00ef0107af3e55d9ae1e8a1f361">
-        <source>The password and its confirmation do not match.</source>
-        <target>The password and its confirmation do not match.</target>
+        <source>The confirmation password doesn't match.</source>
+        <target>The confirmation password doesn't match.</target>
         <note>Line: 160</note>
       </trans-unit>
       <trans-unit id="f01fb987f60542e0bff1bf7bed42d142">

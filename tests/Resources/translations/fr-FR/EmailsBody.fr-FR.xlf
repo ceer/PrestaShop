@@ -92,7 +92,7 @@
   <file original="mails/themes/classic/core/contact.html.twig" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="31e15b28c2f071f74f47eb8bcd612d94" approved="yes">
-        <source>Customer e-mail address:</source>
+        <source>Customer email address:</source>
         <target state="final">Adresse e-mail du client :</target>
         <note>Line: 22</note>
       </trans-unit>
@@ -168,7 +168,7 @@
         <note>Line: 29</note>
       </trans-unit>
       <trans-unit id="78e365acb087fd1f8d494dae0001de10" approved="yes">
-        <source>E-mail address:</source>
+        <source>Email address:</source>
         <target state="final">Adresse e-mail :</target>
         <note>Line: 32</note>
       </trans-unit>

@@ -422,8 +422,8 @@
         <note>Line: 30</note>
       </trans-unit>
       <trans-unit id="6fbc355a02359656f1e4540d58b784e1">
-        <source>Order Date</source>
-        <target>Order Date</target>
+        <source>Order date</source>
+        <target>Order date</target>
         <note>Line: 28</note>
       </trans-unit>
     </body>

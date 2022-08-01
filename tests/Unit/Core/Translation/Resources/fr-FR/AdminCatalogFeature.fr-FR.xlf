@@ -181,7 +181,7 @@
         <note>Line: 293</note>
       </trans-unit>
       <trans-unit id="e2bcac3dc51781abbc2938e16a0b0e72" approved="yes">
-        <source>Shop selection</source>
+        <source>Store selection</source>
         <target state="final">Sélection de boutique</target>
         <note>Line: 301</note>
       </trans-unit>
@@ -470,7 +470,7 @@
         <note>Line: 327</note>
       </trans-unit>
       <trans-unit id="71e8f8a090925f75719dfa0a5eae059e" approved="yes">
-        <source>Add New Values</source>
+        <source>Add new values</source>
         <target state="final">Ajouter des valeurs</target>
         <note>Line: 579</note>
       </trans-unit>
@@ -495,12 +495,12 @@
         <note>Line: 342</note>
       </trans-unit>
       <trans-unit id="577cf2cf1be74419ac04093a2b4cd64d" approved="yes">
-        <source>Edit Value</source>
+        <source>Edit value</source>
         <target state="final">Modifier une valeur</target>
         <note>Line: 647</note>
       </trans-unit>
       <trans-unit id="fce2e84f3cce0e5351e85e9f0cb20107" approved="yes">
-        <source>Add New Value</source>
+        <source>Add new value</source>
         <target state="final">Ajouter une nouvelle valeur</target>
         <note>Line: 650</note>
       </trans-unit>
@@ -1021,7 +1021,7 @@
   <file original="src/Core/Import/EntityField/Provider/ProductFieldsProvider.php" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="9aa4e1b6c10cf1bc2a8145dcc8476b0f" approved="yes">
-        <source>Send me an email when the quantity is under this level</source>
+        <source>Receive a low stock alert by email</source>
         <target state="final">M'envoyer un email quand la quantité est en dessous de ce niveau</target>
         <note>Line: 95</note>
       </trans-unit>
@@ -1394,12 +1394,12 @@
         <note>Line: 155</note>
       </trans-unit>
       <trans-unit id="a532f6edbb8880c752b74073710b285a" approved="yes">
-        <source>Label when out of stock (and back order allowed)</source>
+        <source>Label when out of stock (and backorders allowed)</source>
         <target state="final">Si rupture de stock (et précommande autorisée)</target>
         <note>Line: 216</note>
       </trans-unit>
       <trans-unit id="6ece9a14d0c8da14a1af607f9f7e0b36" approved="yes">
-        <source>Does this product have an associated file?</source>
+        <source>Add downloadable file</source>
         <target state="final">Ce produit a un fichier associé ?</target>
         <note>Line: 237</note>
       </trans-unit>
@@ -1547,7 +1547,7 @@
         <note>Line: 166</note>
       </trans-unit>
       <trans-unit id="205b01b3197cf06688f6ed574faf5664" approved="yes">
-        <source>Delivery Time</source>
+        <source>Delivery time</source>
         <target state="final">Delai de livraison</target>
         <note>Line: 173</note>
       </trans-unit>

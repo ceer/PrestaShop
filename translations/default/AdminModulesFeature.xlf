@@ -17,8 +17,8 @@
   <file original="admin-dev/themes/default/template/footer_toolbar.tpl" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="90406afefae30826692e7f7480f7467c">
-        <source>Toggle Dropdown</source>
-        <target>Toggle Dropdown</target>
+        <source>Toggle dropdown</source>
+        <target>Toggle dropdown</target>
         <note>Line: 74</note>
       </trans-unit>
     </body>

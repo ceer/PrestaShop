@@ -521,8 +521,8 @@ Comment: subtab</note>
   <file original="src/Core/Grid/Definition/Factory/Security/Session/CustomerGridDefinitionFactory.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="548a6a2553ac4c206715f1977d2be125">
-        <source>Customer sessions</source>
-        <target>Customer sessions</target>
+        <source>Customer Sessions</source>
+        <target>Customer Sessions</target>
         <note>Line: 93</note>
       </trans-unit>
     </body>
@@ -530,8 +530,8 @@ Comment: subtab</note>
   <file original="src/Core/Grid/Definition/Factory/Security/Session/EmployeeGridDefinitionFactory.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="9766534ce6dcab04489a9a1ebe98b281">
-        <source>Employee sessions</source>
-        <target>Employee sessions</target>
+        <source>Employee Sessions</source>
+        <target>Employee Sessions</target>
         <note>Line: 93</note>
       </trans-unit>
     </body>

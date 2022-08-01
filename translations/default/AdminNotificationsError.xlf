@@ -1784,8 +1784,8 @@ Comment: check if some ids are in list_skip_actions and forbid deletion</note>
         <note>Line: 78</note>
       </trans-unit>
       <trans-unit id="bfdc35d6e102c6a3f6ee9160dc109955">
-        <source>Reduction value "%value%" is invalid. Value must be more than zero.</source>
-        <target>Reduction value "%value%" is invalid. Value must be more than zero.</target>
+        <source>Reduction value "%value%" is invalid. It must be greater than 0.</source>
+        <target>Reduction value "%value%" is invalid. It must be greater than 0.</target>
         <note>Line: 83</note>
       </trans-unit>
     </body>

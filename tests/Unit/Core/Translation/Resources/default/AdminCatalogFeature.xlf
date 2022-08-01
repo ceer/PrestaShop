@@ -181,8 +181,8 @@
         <note>Line: 293</note>
       </trans-unit>
       <trans-unit id="e2bcac3dc51781abbc2938e16a0b0e72">
-        <source>Shop selection</source>
-        <target>Shop selection</target>
+        <source>Store selection</source>
+        <target>Store selection</target>
         <note>Line: 301</note>
       </trans-unit>
       <trans-unit id="5e3f76cc2d68012faa5ce54aadf6cf84">
@@ -438,8 +438,8 @@
         <note>Line: 327</note>
       </trans-unit>
       <trans-unit id="71e8f8a090925f75719dfa0a5eae059e">
-        <source>Add New Values</source>
-        <target>Add New Values</target>
+        <source>Add new values</source>
+        <target>Add new values</target>
         <note>Line: 579</note>
       </trans-unit>
       <trans-unit id="52729803b243ea9693a892161d5b8e38">
@@ -463,13 +463,13 @@
         <note>Line: 342</note>
       </trans-unit>
       <trans-unit id="577cf2cf1be74419ac04093a2b4cd64d">
-        <source>Edit Value</source>
-        <target>Edit Value</target>
+        <source>Edit value</source>
+        <target>Edit value</target>
         <note>Line: 647</note>
       </trans-unit>
       <trans-unit id="fce2e84f3cce0e5351e85e9f0cb20107">
-        <source>Add New Value</source>
-        <target>Add New Value</target>
+        <source>Add new value</source>
+        <target>Add new value</target>
         <note>Line: 650</note>
       </trans-unit>
     </body>
@@ -989,8 +989,8 @@
   <file original="src/Core/Import/EntityField/Provider/ProductFieldsProvider.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="9aa4e1b6c10cf1bc2a8145dcc8476b0f">
-        <source>Send me an email when the quantity is under this level</source>
-        <target>Send me an email when the quantity is under this level</target>
+        <source>Receive a low stock alert by email</source>
+        <target>Receive a low stock alert by email</target>
         <note>Line: 95</note>
       </trans-unit>
       <trans-unit id="78167a214fe755d9a2f5a7f2bc62cecf">
@@ -1362,13 +1362,13 @@
         <note>Line: 155</note>
       </trans-unit>
       <trans-unit id="a532f6edbb8880c752b74073710b285a">
-        <source>Label when out of stock (and back order allowed)</source>
-        <target>Label when out of stock (and back order allowed)</target>
+        <source>Label when out of stock (and backorders allowed)</source>
+        <target>Label when out of stock (and backorders allowed)</target>
         <note>Line: 216</note>
       </trans-unit>
       <trans-unit id="6ece9a14d0c8da14a1af607f9f7e0b36">
-        <source>Does this product have an associated file?</source>
-        <target>Does this product have an associated file?</target>
+        <source>Add downloadable file</source>
+        <target>Add downloadable file</target>
         <note>Line: 237</note>
       </trans-unit>
       <trans-unit id="989d17fa8f3081cc0d66838c7504c0ef">
@@ -1515,8 +1515,8 @@
         <note>Line: 166</note>
       </trans-unit>
       <trans-unit id="205b01b3197cf06688f6ed574faf5664">
-        <source>Delivery Time</source>
-        <target>Delivery Time</target>
+        <source>Delivery time</source>
+        <target>Delivery time</target>
         <note>Line: 173</note>
       </trans-unit>
       <trans-unit id="02746d0355a6c94c9ca770302e9da1ca">

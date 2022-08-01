@@ -1409,7 +1409,7 @@
         <note>Line: 40</note>
       </trans-unit>
       <trans-unit id="f324bbd9de83d61ccb5f7d5593aec5b3" approved="yes">
-        <source>You MUST use this syntax in your translations. Here are several examples:</source>
+        <source>You must use this syntax in your translations. Here are several examples:</source>
         <target state="final">Vous devez utiliser cette syntaxe dans vos traductions. Voici quelques exemples :</target>
         <note>Line: 86</note>
       </trans-unit>

@@ -304,12 +304,12 @@
   <file original="classes/helper/Helper.php" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="b56c3bda503a8dc4be356edb0cc31793" approved="yes">
-        <source>Collapse All</source>
+        <source>Collapse all</source>
         <target state="final">Réduire tout</target>
         <note>Line: 172</note>
       </trans-unit>
       <trans-unit id="5ffd7a335dd836b3373f5ec570a58bdc" approved="yes">
-        <source>Expand All</source>
+        <source>Expand all</source>
         <target state="final">Ouvrir tout</target>
         <note>Line: 173</note>
       </trans-unit>

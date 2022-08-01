@@ -373,8 +373,8 @@
         <note>Line: 195</note>
       </trans-unit>
       <trans-unit id="d8942e5679a9104ae58333b9b4778b71">
-        <source>The multistore feature allows you to manage several e-shops with one Back Office. If this feature is enabled, a "Multistore" page will be available in the "Advanced Parameters" menu.</source>
-        <target>The multistore feature allows you to manage several e-shops with one Back Office. If this feature is enabled, a "Multistore" page will be available in the "Advanced Parameters" menu.</target>
+        <source>The multistore feature allows you to manage several front offices from a single back office. If this feature is enabled, a Multistore page is available in the Advanced Parameters menu.</source>
+        <target>The multistore feature allows you to manage several front offices from a single back office. If this feature is enabled, a Multistore page is available in the Advanced Parameters menu.</target>
         <note>Line: 203</note>
       </trans-unit>
     </body>
